@@ -11,8 +11,7 @@ Para iniciar:
 - Adicione este usuário como colaborador
 - Realize seus commits neste fork criado. 
 
-O projeto pode ser escrito em qualquer linguagem e frameworks, mas com preferência para Typescript com React/Vue/Angular.
-A criação de componentes (ao invés de utilizar bibliotecas externas) é altamente encorajada.
+O projeto pode ser escrito em qualquer linguagem e frameworks, mas com preferência para Flutter e React Native.
 
 Sobre o design, você pode se guiar pelo link abaixo, onde os componentes e telas seguem o atual padrão da Navegam. Pode notar que existem muitas funcionalidades e telas no layout, porém, somente algumas são necessárias para a avaliação (descritas abaixo), o restante é opcional (e bônus).
 
